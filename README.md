@@ -5,6 +5,8 @@ GeoControl is a web application composed of:
 - A web client which interacts with the server through HTTP/Rest/JSON calls
 - A database, which saves the application data
 
+[📄 GeoControl Official Requirements](./GeoControlOfficialRequirements.pdf)
+
 ## GeoControl System Overview
 GeoControl is a software system designed for monitoring physical and environmental variables in various contexts: from hydrogeological analyses of mountain areas to the surveillance of historical buildings, and even the control of internal parameters (such as temperature or lighting) in residential or working environments.
 It was commissioned by the Union of Mountain Communities of the Piedmont region for managing the hydrogeological state of its territories. However, thanks to its modular structure, GeoControl has also been commercialized to different public or private entities requiring continuous monitoring of physical parameters.
